@@ -111,7 +111,7 @@ Loading a watch list never flips either one.
 - 🚀 **First‑run setup.** A short guided flow handles sign‑in and a starting list — and installs Google Chrome for you if it isn't already present.
 - 🔁 **Auto‑updates.** Windows updates silently; macOS offers a one‑tap assisted update. Your watch lists, settings, and templates are never touched by an update.
 
-<div align="center"><sub>Currently focused on <b>Target</b>. Support for more retailers is in development and not yet enabled in the app.</sub></div>
+<div align="center"><sub><b>Target</b> is fully supported today. <b>Amazon</b> and <b>Walmart</b> are a <b>work in progress</b> — the groundwork is in, but they aren't enabled in the app yet.</sub></div>
 
 ---
 
